@@ -1,0 +1,1 @@
+﻿If GUI text is black, check if you applied TxtMat to the text object
